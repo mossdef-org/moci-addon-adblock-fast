@@ -4,8 +4,8 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=moci-app-adblock-fast
-PKG_VERSION:=1.2.4
-PKG_RELEASE:=4
+PKG_VERSION:=1.2.5
+PKG_RELEASE:=3
 
 PKG_MAINTAINER:=Stan Grishin <stangri@melmac.ca>
 PKG_LICENSE:=AGPL-3.0-or-later
